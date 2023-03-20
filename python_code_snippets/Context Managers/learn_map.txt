@@ -1,0 +1,64 @@
+Technologies to learn
+    - Python
+        - Python Fundamentals and Advance
+            - Idiomatic Python
+            - Iteration and Generators
+            - Serialization and Hashing
+            - Functional Programming
+            - Object-Oriented Programming
+        - Testing
+            - Unit Tests Fundamentals
+            - PyTest Framework
+        - Back-end Framework and RESTful API
+            - Flask
+            - Fast API
+            - Django
+        - Data Science
+            - NumPy
+            - Pandas or Polars
+            - Plotly
+            - Matplotlib
+            - Streamlit
+        - Machine Learning
+            - Sci-kit Learn
+            - TensorFlow or PyTorch
+    - Javascript
+        - Javascript Fundamentals and Advance
+            - Closures, Scopes, and Functions
+            - Objects
+            - Higher Order Functions
+            - Data Structures
+            - Object-Oriented Programming
+            - Asynchronous Javascript
+        - Front-End Framework
+            - Typescript
+            - React JS
+            - React Native
+            - React Redux
+            - Vue
+            - Svelte
+        - Back-End Framework
+            - Node JS
+            - Express JS
+    - Databases
+        - Relational Databases
+            - SQLite
+            - MySQL
+            - PostgreSQL
+        - Document and Object Databases
+            - GraphQL
+            - MongoDB
+    - Rust
+        - Rust Fundamentals
+            - Ownership and Lifetimes
+            - Structs and Enums
+            - Trait Implementations
+        - Web Assembly Frameworks
+            - Yew
+            - Tauri
+            - Rocket
+    - Cloud and Deployment
+        - Github, Gitlab
+            - Git
+        - Docker
+        - Amazon Web Service
